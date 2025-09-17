@@ -1,2 +1,8 @@
-# new-project
-Devops
+<html>
+  <head>
+    <title>HTML Demo Code</title>
+  </head>
+  <body>
+    <p>This is my first HTML Code</p>
+  </body>
+</html>
